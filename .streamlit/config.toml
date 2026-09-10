@@ -1,0 +1,15 @@
+[theme]
+primaryColor = "#2263AE"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F6FA"
+textColor = "#172B4D"
+
+[client]
+showErrorDetails = "none"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+address = "127.0.0.1"
+
